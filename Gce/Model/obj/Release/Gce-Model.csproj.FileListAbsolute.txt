@@ -1,0 +1,5 @@
+E:\工程项目\Gce\Model\bin\Release\Gce_Model.dll
+E:\工程项目\Gce\Model\bin\Release\Gce_Model.pdb
+E:\工程项目\Gce\Model\obj\Release\Gce-Model.csprojResolveAssemblyReference.cache
+E:\工程项目\Gce\Model\obj\Release\Gce_Model.dll
+E:\工程项目\Gce\Model\obj\Release\Gce_Model.pdb

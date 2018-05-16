@@ -1,0 +1,15 @@
+E:\工程项目\Gce\Model\bin\Debug\Gce_Model.dll
+E:\工程项目\Gce\Model\bin\Debug\Gce_Model.pdb
+E:\工程项目\Gce\Model\obj\Debug\Gce_Model.dll
+E:\工程项目\Gce\Model\obj\Debug\Gce_Model.pdb
+E:\Gce\Model\bin\Debug\Gce_Model.dll
+E:\Gce\Model\bin\Debug\Gce_Model.pdb
+E:\Gce\Model\obj\Debug\Gce-Model.csprojResolveAssemblyReference.cache
+E:\Gce\Model\obj\Debug\Gce_Model.dll
+E:\Gce\Model\obj\Debug\Gce_Model.pdb
+E:\工程项目\Gce\Model\obj\Debug\Gce-Model.csprojResolveAssemblyReference.cache
+D:\Gce\Model\bin\Debug\Gce_Model.dll
+D:\Gce\Model\bin\Debug\Gce_Model.pdb
+D:\Gce\Model\obj\Debug\Gce-Model.csprojResolveAssemblyReference.cache
+D:\Gce\Model\obj\Debug\Gce_Model.dll
+D:\Gce\Model\obj\Debug\Gce_Model.pdb

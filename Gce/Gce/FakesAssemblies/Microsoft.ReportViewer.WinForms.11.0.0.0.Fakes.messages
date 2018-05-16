@@ -1,0 +1,458 @@
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 AssemblyVersionInfo 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.ReportingServices.Common.UrlUtil 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.IReportExecutionService 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Report 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ServerReport 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AbortState 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SoapReportExecutionService 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ExecutionInfo 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.CreateStreamCallback 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ProcessingMode 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ZoomMode 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Severity 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.PageCountMode 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterAutoSubmit 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.IReportServerCredentials 生成存根: method System.Security.Principal.WindowsIdentity Microsoft.Reporting.WinForms.IReportServerCredentials.get_ImpersonationUser() unstubbable: 方法是抽象的，因此无法用作存根，类型 System.Security.Principal.WindowsIdentity 在目标框架版本中不可用。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportServerCredentials 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportPageSettings 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SearchState 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportParameterCollection 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportParameter 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingExtension 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Warning 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportDataSourceInfo 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportDataSourceInfoCollection 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DataSourceCredentialsCollection 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DataSourceCredentials 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportDataSource 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SyncList`1 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportDataSourceCollection 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DocumentMapNode 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportViewerHeaderCollection 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportViewerCookieCollection 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MissingParameterException 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MissingDataSourceCredentialsException 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MissingDataSourceException 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.LocalProcessingException 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ClientRenderingException 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportSecurityException 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MissingEndpointException 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SoapVersionMismatchException 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MissingReportSourceException 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterDataType 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterState 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportParameterInfo 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportParameterInfoCollection 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ValidValue 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.PageNavigationEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.PageNavigationEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SearchEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SearchEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DocumentMapNavigationEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DocumentMapNavigationEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.BookmarkNavigationEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.BookmarkNavigationEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DrillthroughEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DrillthroughEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SortOrder 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SortEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SortEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SubreportProcessingEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SubreportProcessingEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportErrorEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportErrorEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.BackEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.BackEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingCompleteEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingCompleteEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.HyperlinkEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.HyperlinkEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ExportEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportExportEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportPrintEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportPrintEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ZoomChangedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ZoomChangeEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportCredentialsEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportCredentialsEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportParametersEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportParametersEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.LocalizationHelper 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.TypeNameHidingExpandableObjectConverter 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportChangedEventArgs 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.SRDescriptionAttribute 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.SRCategoryAttribute 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.CommonStrings 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.ReportViewerUtils 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.CreateAndRegisterStreamTypeConverter 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.LocalReport 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MapTileServerConfiguration 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.ReportingServices.CommonControls.GenericDropDown 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.ReportingServices.Common.MessageBoxWrappers 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ActionType 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ActionShape 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportActions 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ActionPoint 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.LabelPoint 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.BookmarkPoint 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Action 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.BookmarkLinkAction 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.HyperLinkAction 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DrillthroughAction 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SortAction 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ToggleAction 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportToolTip 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncReportOperation 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncLoadOperation 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AlphaPanel 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncWaitControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.IRenderable 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncWaitMessage 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncRenderingOperation 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncMainStreamRenderingOperation 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncAllStreamsRenderingOperation 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.PostRenderArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ExportDialog 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.FileManagerStatus 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.FileManager 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.FileManagerStream 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.StreamInIsolatedStorage 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.StreamInTempDirectory 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.StreamInMemory 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ProcessingThread 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingExtensionsHelper 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportPreviewStrings 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportToolBar 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RSDocMap 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MirrorPanel 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RSParams 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterControlCollection 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterLabel 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ColumnControlCollection 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterPanel 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DataSourcePromptControl 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.BooleanControl 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.TextControl 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ValidValuesControl 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AutoWidthComboBox 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ComboBoxItem 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.TextBoxWithImage 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DateControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MultiValueControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MultiValueValidValuesControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MultiValueTextControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ResizableToolStripPanel 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DropDownResizeGlyph 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ResizeEventArgs 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RVSplitContainer 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DisplayMode 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportInfo 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportHierarchy 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Global 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MirrorComboBox 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MirrorUtil 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportPanel 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.WinRSviewer 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.InternalPageNavigationEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.UIState 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportViewerStatus 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ToolbarFlags 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SearchMatch 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.GdiWriter 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ClientGDIRenderer 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.GdiContext 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingReport 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingElementBase 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingElement 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingReportSection 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingItem 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingItemContainer 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingBody 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingHeader 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingFooter 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingRectangle 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingTablix 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingSubReport 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingImage 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingDynamicImage 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingLine 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingTextBox 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingParagraph 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingTextRun 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingItemBorder 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.FixedHeaderItem 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingItemBorderTablix 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ZIndexComparer 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DrawablePage 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.GdiPage 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MetaFilePage 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportPrintDocument 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ZoomMenuHelper 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ZoomItem 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.EndpointVersion 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ExtensionTypeEnum 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ParameterTypeEnum 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ParameterStateEnum 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.PageCountMode 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SortDirectionEnum 生成存根: 类型是一个值类型。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ListSecureMethodsCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ListSecureMethodsCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadReportCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadReportCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadReport2CompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadReport2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadReportDefinitionCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadReportDefinitionCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadReportDefinition2CompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadReportDefinition2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionCredentialsCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionCredentialsCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionCredentials2CompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionCredentials2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionParametersCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionParametersCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionParameters2CompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionParameters2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ResetExecutionCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ResetExecutionCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ResetExecution2CompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ResetExecution2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.RenderCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.RenderCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.Render2CompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.Render2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.RenderStreamCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.RenderStreamCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.GetExecutionInfoCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.GetExecutionInfoCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.GetExecutionInfo2CompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.GetExecutionInfo2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.GetDocumentMapCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.GetDocumentMapCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadDrillthroughTargetCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadDrillthroughTargetCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadDrillthroughTarget2CompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadDrillthroughTarget2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ToggleItemCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ToggleItemCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.NavigateDocumentMapCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.NavigateDocumentMapCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.NavigateBookmarkCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.NavigateBookmarkCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.FindStringCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.FindStringCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SortCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SortCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.Sort2CompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.Sort2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.GetRenderResourceCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.GetRenderResourceCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ListRenderingExtensionsCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ListRenderingExtensionsCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LogonUserCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LogoffCompletedEventHandler 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.WebRequestHelper 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.LocalDataRetrievalFromDataSet 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DataSourceCollectionWrapper 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ProcessingContextForDataSets 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DataSetExtensionConnection 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DataSourceWrapper 生成存根: 类型已密封。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 <PrivateImplementationDetails>{D3B6ADAF-1859-4EB8-8FB0-88F9612D3DCB} 生成存根: 类型不受支持，因为存在内部限制。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 AssemblyVersionInfo 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.ReportingServices.Common.UrlUtil 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.IReportExecutionService 生成填充码: 类型是一个接口。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AbortState 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SoapReportExecutionService 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ExecutionInfo 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.CreateStreamCallback 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ProcessingMode 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ZoomMode 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Severity 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.PageCountMode 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterAutoSubmit 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.IReportServerCredentials 生成填充码: 类型是一个接口。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.IReportViewerMessages 生成填充码: 类型是一个接口。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.IReportViewerMessages2 生成填充码: 类型是一个接口。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.IReportViewerMessages3 生成填充码: 类型是一个接口。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DocumentMapNode+NodeStackEntry 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterDataType 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterState 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.PageNavigationEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SearchEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DocumentMapNavigationEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.BookmarkNavigationEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DrillthroughEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SortOrder 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SortEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SubreportProcessingEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportErrorEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.BackEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingCompleteEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.HyperlinkEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ExportEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportPrintEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ZoomChangedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportCredentialsEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportParametersEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.LocalizationHelper 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.TypeNameHidingExpandableObjectConverter 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportChangedEventArgs 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.SRDescriptionAttribute 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.SRCategoryAttribute 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.CommonStrings 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.ReportViewerUtils 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.CreateAndRegisterStreamTypeConverter 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.LocalReport+<>c__DisplayClass2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.LocalReport+<>c__DisplayClass5 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.LocalReport+<>c__DisplayClass8 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.LocalReport+<>c__DisplayClassb 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.ReportingServices.CommonControls.GenericDropDown 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.ReportingServices.Common.MessageBoxWrappers 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ActionType 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ActionShape 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportActions 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ActionPoint 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.LabelPoint 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.BookmarkPoint 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Action 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.BookmarkLinkAction 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.HyperLinkAction 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DrillthroughAction 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SortAction 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ToggleAction 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportToolTip 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncReportOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncLoadOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AlphaPanel 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncWaitControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.IRenderable 生成填充码: 类型是一个接口。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncWaitMessage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncRenderingOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncMainStreamRenderingOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AsyncAllStreamsRenderingOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.PostRenderArgs 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ExportDialog 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.FileManagerStatus 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.FileManager 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.FileManagerStream 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.StreamInIsolatedStorage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.StreamInTempDirectory 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.StreamInMemory 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ProcessingThread 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingExtensionsHelper 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportPreviewStrings 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportToolBar 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RSDocMap 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MirrorPanel 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RSParams 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterControlCollection 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterLabel 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ColumnControlCollection 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterPanel 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DataSourcePromptControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ParameterControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.BooleanControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.TextControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ValidValuesControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.AutoWidthComboBox 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ComboBoxItem 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.TextBoxWithImage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DateControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MultiValueControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MultiValueValidValuesControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MultiValueTextControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ResizableToolStripPanel 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DropDownResizeGlyph 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ResizeEventArgs 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RVSplitContainer 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportViewer+<>c__DisplayClass1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportViewer+<>c__DisplayClass4 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportViewer+AsyncReportOperationWrapper 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DisplayMode 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportInfo 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportHierarchy 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Global 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MirrorComboBox 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MirrorUtil 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportPanel 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.WinRSviewer 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.InternalPageNavigationEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.UIState 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ToolbarFlags 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.SearchMatch 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.GdiWriter 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ClientGDIRenderer 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.GdiContext 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingReport 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingElementBase 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingElement 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingReportSection 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingItem 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingItemContainer 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingBody 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingHeader 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingFooter 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingRectangle 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingTablix 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingSubReport 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingImage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingDynamicImage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingLine 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingTextBox 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingParagraph 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingTextRun 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingItemBorder 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.FixedHeaderItem 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.RenderingItemBorderTablix 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ZIndexComparer 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DrawablePage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.GdiPage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.MetaFilePage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ReportPrintDocument 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ZoomMenuHelper 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ZoomItem 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.EndpointVersion 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ExtensionTypeEnum 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ParameterTypeEnum 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ParameterStateEnum 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.PageCountMode 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SortDirectionEnum 生成填充码: 类型是一个枚举。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ListSecureMethodsCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadReportCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadReport2CompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadReportDefinitionCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadReportDefinition2CompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionCredentialsCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionCredentials2CompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionParametersCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionParameters2CompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ResetExecutionCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ResetExecution2CompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.RenderCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.Render2CompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.RenderStreamCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.GetExecutionInfoCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.GetExecutionInfo2CompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.GetDocumentMapCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadDrillthroughTargetCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LoadDrillthroughTarget2CompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ToggleItemCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.NavigateDocumentMapCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.NavigateBookmarkCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.FindStringCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.SortCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.Sort2CompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.GetRenderResourceCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.ListRenderingExtensionsCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LogonUserCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.Internal.Soap.ReportingServices2005.Execution.LogoffCompletedEventHandler 生成填充码: 类型是一个委托。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.WebRequestHelper 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.LocalDataRetrievalFromDataSet 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DataSourceCollectionWrapper 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.ProcessingContextForDataSets 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DataSetExtensionConnection 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 Microsoft.Reporting.WinForms.DataSourceWrapper 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes) 不可见。
+D:\Gce\Gce\Fakes\Microsoft.ReportViewer.WinForms.fakes : warning : 无法为 <PrivateImplementationDetails>{D3B6ADAF-1859-4EB8-8FB0-88F9612D3DCB} 生成填充码: 类型不受支持，因为存在内部限制。

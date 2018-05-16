@@ -1,0 +1,5 @@
+E:\工程项目\Gce\Model\bin\Debug\Model.dll
+E:\工程项目\Gce\Model\bin\Debug\Model.pdb
+E:\工程项目\Gce\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\工程项目\Gce\Model\obj\Debug\Model.dll
+E:\工程项目\Gce\Model\obj\Debug\Model.pdb

@@ -1,0 +1,11 @@
+E:\工程项目\Gce\Bll\bin\Debug\Bll.dll
+E:\工程项目\Gce\Bll\bin\Debug\Bll.pdb
+E:\工程项目\Gce\Bll\bin\Debug\Common.dll
+E:\工程项目\Gce\Bll\bin\Debug\Dal.dll
+E:\工程项目\Gce\Bll\bin\Debug\Model.dll
+E:\工程项目\Gce\Bll\bin\Debug\Common.pdb
+E:\工程项目\Gce\Bll\bin\Debug\Dal.pdb
+E:\工程项目\Gce\Bll\bin\Debug\Model.pdb
+E:\工程项目\Gce\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+E:\工程项目\Gce\Bll\obj\Debug\Bll.dll
+E:\工程项目\Gce\Bll\obj\Debug\Bll.pdb

@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Guifreaks.NavigationBar.XmlSerializers.0.1.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer">
+            <summary>Microsoft.Xml.Serialization.GeneratedAssembly.NaviBarSettingsSerializer 的填充码类型</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.#ctor(Microsoft.Xml.Serialization.GeneratedAssembly.NaviBarSettingsSerializer)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.CanDeserializeXmlReader">
+            <summary>设置 NaviBarSettingsSerializer.CanDeserialize(XmlReader xmlReader) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.Constructor">
+            <summary>设置 NaviBarSettingsSerializer.NaviBarSettingsSerializer() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.DeserializeXmlSerializationReader">
+            <summary>设置 NaviBarSettingsSerializer.Deserialize(XmlSerializationReader reader) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.SerializeObjectXmlSerializationWriter">
+            <summary>设置 NaviBarSettingsSerializer.Serialize(Object objectToSerialize, XmlSerializationWriter writer) 的 填充码</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.AllInstances.CanDeserializeXmlReader">
+            <summary>设置 NaviBarSettingsSerializer.CanDeserialize(XmlReader xmlReader) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.AllInstances.DeserializeXmlSerializationReader">
+            <summary>设置 NaviBarSettingsSerializer.Deserialize(XmlSerializationReader reader) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimNaviBarSettingsSerializer.AllInstances.SerializeObjectXmlSerializationWriter">
+            <summary>设置 NaviBarSettingsSerializer.Serialize(Object objectToSerialize, XmlSerializationWriter writer) 的 填充码</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings">
+            <summary>Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderNaviBarSettings 的填充码类型</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.#ctor(Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderNaviBarSettings)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.Constructor">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.XmlSerializationReaderNaviBarSettings() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.InitCallbacks">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.InitCallbacks() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.InitIDs">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.InitIDs() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.Read2_NaviBandSettingBooleanBoolean">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.Read2_NaviBandSetting(Boolean isNullable, Boolean checkType) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.Read3_NaviBarSettingsBooleanBoolean">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.Read3_NaviBarSettings(Boolean isNullable, Boolean checkType) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.Read4_settings">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.Read4_settings() 的 填充码</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.AllInstances.InitCallbacks">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.InitCallbacks() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.AllInstances.InitIDs">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.InitIDs() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.AllInstances.Read2_NaviBandSettingBooleanBoolean">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.Read2_NaviBandSetting(Boolean isNullable, Boolean checkType) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.AllInstances.Read3_NaviBarSettingsBooleanBoolean">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.Read3_NaviBarSettings(Boolean isNullable, Boolean checkType) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationReaderNaviBarSettings.AllInstances.Read4_settings">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.Read4_settings() 的 填充码</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings">
+            <summary>Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterNaviBarSettings 的填充码类型</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.#ctor(Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterNaviBarSettings)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.Constructor">
+            <summary>设置 XmlSerializationWriterNaviBarSettings.XmlSerializationWriterNaviBarSettings() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.InitCallbacks">
+            <summary>设置 XmlSerializationWriterNaviBarSettings.InitCallbacks() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.Write2_NaviBandSettingStringStringNaviBandSettingBooleanBoolean">
+            <summary>设置 XmlSerializationWriterNaviBarSettings.Write2_NaviBandSetting(String n, String ns, NaviBandSetting o, Boolean isNullable, Boolean needType) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.Write3_NaviBarSettingsStringStringNaviBarSettingsBooleanBoolean">
+            <summary>设置 XmlSerializationWriterNaviBarSettings.Write3_NaviBarSettings(String n, String ns, NaviBarSettings o, Boolean isNullable, Boolean needType) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.Write4_settingsObject">
+            <summary>设置 XmlSerializationWriterNaviBarSettings.Write4_settings(Object o) 的 填充码</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.AllInstances.InitCallbacks">
+            <summary>设置 XmlSerializationWriterNaviBarSettings.InitCallbacks() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.AllInstances.Write2_NaviBandSettingStringStringNaviBandSettingBooleanBoolean">
+            <summary>设置 XmlSerializationWriterNaviBarSettings.Write2_NaviBandSetting(String n, String ns, NaviBandSetting o, Boolean isNullable, Boolean needType) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.AllInstances.Write3_NaviBarSettingsStringStringNaviBarSettingsBooleanBoolean">
+            <summary>设置 XmlSerializationWriterNaviBarSettings.Write3_NaviBarSettings(String n, String ns, NaviBarSettings o, Boolean isNullable, Boolean needType) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializationWriterNaviBarSettings.AllInstances.Write4_settingsObject">
+            <summary>设置 XmlSerializationWriterNaviBarSettings.Write4_settings(Object o) 的 填充码</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializer1">
+            <summary>Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializer1 的填充码类型</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializer1.#ctor(Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializer1)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializer1.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializer1.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializer1.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializer1.Constructor">
+            <summary>设置 XmlSerializer1.XmlSerializer1() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializer1.CreateReader">
+            <summary>设置 XmlSerializer1.CreateReader() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializer1.CreateWriter">
+            <summary>设置 XmlSerializer1.CreateWriter() 的 填充码</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializer1.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializer1.AllInstances.CreateReader">
+            <summary>设置 XmlSerializer1.CreateReader() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializer1.AllInstances.CreateWriter">
+            <summary>设置 XmlSerializer1.CreateWriter() 的 填充码</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract">
+            <summary>Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializerContract 的填充码类型</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.#ctor(Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializerContract)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.CanSerializeType">
+            <summary>设置 XmlSerializerContract.CanSerialize(Type type) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.Constructor">
+            <summary>设置 XmlSerializerContract.XmlSerializerContract() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.GetSerializerType">
+            <summary>设置 XmlSerializerContract.GetSerializer(Type type) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.ReadMethodsGet">
+            <summary>设置 XmlSerializerContract.get_ReadMethods() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.ReaderGet">
+            <summary>设置 XmlSerializerContract.get_Reader() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.TypedSerializersGet">
+            <summary>设置 XmlSerializerContract.get_TypedSerializers() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.WriteMethodsGet">
+            <summary>设置 XmlSerializerContract.get_WriteMethods() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.WriterGet">
+            <summary>设置 XmlSerializerContract.get_Writer() 的 填充码</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.AllInstances.CanSerializeType">
+            <summary>设置 XmlSerializerContract.CanSerialize(Type type) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.AllInstances.GetSerializerType">
+            <summary>设置 XmlSerializerContract.GetSerializer(Type type) 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.AllInstances.ReadMethodsGet">
+            <summary>设置 XmlSerializerContract.get_ReadMethods() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.AllInstances.ReaderGet">
+            <summary>设置 XmlSerializerContract.get_Reader() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.AllInstances.TypedSerializersGet">
+            <summary>设置 XmlSerializerContract.get_TypedSerializers() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.AllInstances.WriteMethodsGet">
+            <summary>设置 XmlSerializerContract.get_WriteMethods() 的 填充码</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.ShimXmlSerializerContract.AllInstances.WriterGet">
+            <summary>设置 XmlSerializerContract.get_Writer() 的 填充码</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationReaderNaviBarSettings">
+            <summary>Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderNaviBarSettings 的存根类型</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationReaderNaviBarSettings.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationReaderNaviBarSettings.InitCallbacks">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.InitCallbacks() 的 存根</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationReaderNaviBarSettings.InitCallbacks01">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.InitCallbacks() 的 stub</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationReaderNaviBarSettings.InitIDs">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.InitIDs() 的 存根</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationReaderNaviBarSettings.InitIDs01">
+            <summary>设置 XmlSerializationReaderNaviBarSettings.InitIDs() 的 stub</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationReaderNaviBarSettings.InitializeStub">
+            <summary>初始化 type StubXmlSerializationReaderNaviBarSettings 的新实例</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationReaderNaviBarSettings.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationReaderNaviBarSettings.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationReaderNaviBarSettings.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationWriterNaviBarSettings">
+            <summary>Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterNaviBarSettings 的存根类型</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationWriterNaviBarSettings.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationWriterNaviBarSettings.InitCallbacks">
+            <summary>设置 XmlSerializationWriterNaviBarSettings.InitCallbacks() 的 存根</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationWriterNaviBarSettings.InitCallbacks01">
+            <summary>设置 XmlSerializationWriterNaviBarSettings.InitCallbacks() 的 stub</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationWriterNaviBarSettings.InitializeStub">
+            <summary>初始化 type StubXmlSerializationWriterNaviBarSettings 的新实例</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationWriterNaviBarSettings.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationWriterNaviBarSettings.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializationWriterNaviBarSettings.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1">
+            <summary>Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializer1 的存根类型</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.CanDeserialize(System.Xml.XmlReader)">
+            <summary>设置 XmlSerializer.CanDeserialize(XmlReader xmlReader) 的 存根</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.CanDeserializeXmlReader">
+            <summary>设置 XmlSerializer.CanDeserialize(XmlReader xmlReader) 的 stub</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.CreateReader">
+            <summary>设置 XmlSerializer1.CreateReader() 的 存根</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.CreateReader01">
+            <summary>设置 XmlSerializer1.CreateReader() 的 stub</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.CreateWriter">
+            <summary>设置 XmlSerializer1.CreateWriter() 的 存根</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.CreateWriter01">
+            <summary>设置 XmlSerializer1.CreateWriter() 的 stub</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.Deserialize(System.Xml.Serialization.XmlSerializationReader)">
+            <summary>设置 XmlSerializer.Deserialize(XmlSerializationReader reader) 的 存根</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.DeserializeXmlSerializationReader">
+            <summary>设置 XmlSerializer.Deserialize(XmlSerializationReader reader) 的 stub</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.InitializeStub">
+            <summary>初始化 type StubXmlSerializer1 的新实例</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.Serialize(System.Object,System.Xml.Serialization.XmlSerializationWriter)">
+            <summary>设置 XmlSerializer.Serialize(Object o, XmlSerializationWriter writer) 的 存根</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.SerializeObjectXmlSerializationWriter">
+            <summary>设置 XmlSerializer.Serialize(Object o, XmlSerializationWriter writer) 的 stub</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializer1.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract">
+            <summary>Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializerContract 的存根类型</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.CanSerialize(System.Type)">
+            <summary>设置 XmlSerializerContract.CanSerialize(Type type) 的 存根</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.CanSerializeType">
+            <summary>设置 XmlSerializerContract.CanSerialize(Type type) 的 stub</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.GetSerializer(System.Type)">
+            <summary>设置 XmlSerializerContract.GetSerializer(Type type) 的 存根</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.GetSerializerType">
+            <summary>设置 XmlSerializerContract.GetSerializer(Type type) 的 stub</summary>
+        </member>
+        <member name="M:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.InitializeStub">
+            <summary>初始化 type StubXmlSerializerContract 的新实例</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.ReadMethodsGet">
+            <summary>设置 XmlSerializerContract.get_ReadMethods() 的 stub</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.ReaderGet">
+            <summary>设置 XmlSerializerContract.get_Reader() 的 stub</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.TypedSerializersGet">
+            <summary>设置 XmlSerializerContract.get_TypedSerializers() 的 stub</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.WriteMethodsGet">
+            <summary>设置 XmlSerializerContract.get_WriteMethods() 的 stub</summary>
+        </member>
+        <member name="F:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.WriterGet">
+            <summary>设置 XmlSerializerContract.get_Writer() 的 stub</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.ReadMethods">
+            <summary>设置 XmlSerializerContract.get_ReadMethods() 的 stub</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.Reader">
+            <summary>设置 XmlSerializerContract.get_Reader() 的 stub</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.TypedSerializers">
+            <summary>设置 XmlSerializerContract.get_TypedSerializers() 的 stub</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.WriteMethods">
+            <summary>设置 XmlSerializerContract.get_WriteMethods() 的 stub</summary>
+        </member>
+        <member name="P:Microsoft.Xml.Serialization.GeneratedAssembly.Fakes.StubXmlSerializerContract.Writer">
+            <summary>设置 XmlSerializerContract.get_Writer() 的 stub</summary>
+        </member>
+    </members>
+</doc>

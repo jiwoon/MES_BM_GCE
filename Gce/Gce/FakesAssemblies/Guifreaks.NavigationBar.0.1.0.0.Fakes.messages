@@ -1,0 +1,18 @@
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.NaviLayoutStyle 生成存根: 类型是一个值类型。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.Properties.Resources 生成存根: 类型对 exported or assembly(Guifreaks.NavigationBar.0.1.0.0.Fakes) 不可见。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.ControlState 生成存根: 类型是一个值类型。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.Resources.DesignTimeText 生成存根: 类型对 exported or assembly(Guifreaks.NavigationBar.0.1.0.0.Fakes) 不可见。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.NaviBandEventHandler 生成存根: 类型已密封。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.InputState 生成存根: 类型是一个值类型。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.Design.NaviBarDesigner 生成存根: 类型对 exported or assembly(Guifreaks.NavigationBar.0.1.0.0.Fakes) 不可见。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.Design.NaviGroupDesigner 生成存根: 类型对 exported or assembly(Guifreaks.NavigationBar.0.1.0.0.Fakes) 不可见。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 <PrivateImplementationDetails>{439C2F4B-1F00-4349-B7C1-F087292C0DFA} 生成存根: 类型不受支持，因为存在内部限制。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.NaviLayoutStyle 生成填充码: 类型是一个枚举。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.Properties.Resources 生成填充码: 类型对 exported or assembly(Guifreaks.NavigationBar.0.1.0.0.Fakes) 不可见。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.ControlState 生成填充码: 类型是一个枚举。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.Resources.DesignTimeText 生成填充码: 类型对 exported or assembly(Guifreaks.NavigationBar.0.1.0.0.Fakes) 不可见。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.NaviBandEventHandler 生成填充码: 类型是一个委托。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.InputState 生成填充码: 类型是一个枚举。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.Design.NaviBarDesigner 生成填充码: 类型对 exported or assembly(Guifreaks.NavigationBar.0.1.0.0.Fakes) 不可见。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 Guifreaks.NavigationBar.Design.NaviGroupDesigner 生成填充码: 类型对 exported or assembly(Guifreaks.NavigationBar.0.1.0.0.Fakes) 不可见。
+E:\工程项目\Gce\Gce\Fakes\Guifreaks.NavigationBar.fakes : warning : 无法为 <PrivateImplementationDetails>{439C2F4B-1F00-4349-B7C1-F087292C0DFA} 生成填充码: 类型不受支持，因为存在内部限制。

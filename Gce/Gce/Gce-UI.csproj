@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D937AA13-435E-4E64-95DD-576E77894DC3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Gce</RootNamespace>
+    <AssemblyName>Gce</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>dice_48px_29268_easyicon.net.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Controls, Version=2.2.5.0, Culture=neutral, PublicKeyToken=a8ac264d1dc6b9d9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.Charts.Design, Version=14.0.0.3, Culture=neutral, PublicKeyToken=90f470f34c89ccaf, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.Charts.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.Charts, Version=14.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar.Charts.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.Keyboard, Version=14.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar.Keyboard.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.Layout, Version=14.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar.Layout.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.Layout.Design, Version=14.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar.Layout.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.Schedule, Version=14.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar.Schedule.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.SuperGrid, Version=14.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar.SuperGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=14.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.Instrumentation, Version=14.0.0.3, Culture=neutral, PublicKeyToken=bc4a9d761ea44ef0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.SuperGrid.Design, Version=14.0.0.3, Culture=neutral, PublicKeyToken=1fea3f5d8d482bff, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.SuperGrid.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.TreeGX, Version=14.0.0.3, Culture=neutral, PublicKeyToken=cfcbd7476b2389d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.TreeGX.dll</HintPath>
+    </Reference>
+    <Reference Include="envdte, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\envdte.dll</HintPath>
+    </Reference>
+    <Reference Include="Guifreaks.NavigationBar">
+      <HintPath>..\..\NaviBarDemo0.1\Guifreaks.NavigationBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Guifreaks.NavigationBar.XmlSerializers, Version=0.1.0.0, Culture=neutral, PublicKeyToken=bf0afd6b35ed9434, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\NaviBarDemo0.1\Guifreaks.NavigationBar.XmlSerializers.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>..\..\..\定止魔瞳\NPOI 2.2.0.0\dotnet4\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.zkemkeeper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>..\..\CheckWorkAttendance\WindowsFormsApplication1\bin\Debug\Interop.zkemkeeper.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.15.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.15.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\ChildWinManagement.cs" />
+    <Compile Include="Class\FormAdaptive.cs" />
+    <Compile Include="Class\formDepot.cs" />
+    <Compile Include="Class\IDNumber.cs" />
+    <Compile Include="Gce_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gce_main.Designer.cs">
+      <DependentUpon>Gce_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\AbnormalIput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\AbnormalIput.Designer.cs">
+      <DependentUpon>AbnormalIput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\AbnormalIputQury.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\AbnormalIputQury.Designer.cs">
+      <DependentUpon>AbnormalIputQury.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\AttendanceMachine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\AttendanceMachine.Designer.cs">
+      <DependentUpon>AttendanceMachine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\BasicShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\BasicShift.Designer.cs">
+      <DependentUpon>BasicShift.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\CheckQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\CheckQuery.Designer.cs">
+      <DependentUpon>CheckQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\CheckWorkAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\CheckWorkAttendance.Designer.cs">
+      <DependentUpon>CheckWorkAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\Choose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\Choose.Designer.cs">
+      <DependentUpon>Choose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\DailyAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\DailyAttendance.Designer.cs">
+      <DependentUpon>DailyAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\EmployeeExperience.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\EmployeeExperience.Designer.cs">
+      <DependentUpon>EmployeeExperience.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\Employee_file.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\Employee_file.Designer.cs">
+      <DependentUpon>Employee_file.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\FinancialInputERP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\FinancialInputERP.Designer.cs">
+      <DependentUpon>FinancialInputERP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\IncomingAudit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\IncomingAudit.Designer.cs">
+      <DependentUpon>IncomingAudit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\IncomingWarehousing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\IncomingWarehousing.Designer.cs">
+      <DependentUpon>IncomingWarehousing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\PickingOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\PickingOut.Designer.cs">
+      <DependentUpon>PickingOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\PMCplan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\PMCplan.Designer.cs">
+      <DependentUpon>PMCplan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\ProductionSplitTimeRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\ProductionSplitTimeRecord.Designer.cs">
+      <DependentUpon>ProductionSplitTimeRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\ReturnGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\ReturnGoods.Designer.cs">
+      <DependentUpon>ReturnGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\SectorStructure_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\SectorStructure_form.Designer.cs">
+      <DependentUpon>SectorStructure_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\BadMachineFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\BadMachineFrm.Designer.cs">
+      <DependentUpon>BadMachineFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\ClassificationDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\ClassificationDisplay.Designer.cs">
+      <DependentUpon>ClassificationDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\ClassType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\ClassType.Designer.cs">
+      <DependentUpon>ClassType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\ComputerTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\ComputerTest.Designer.cs">
+      <DependentUpon>ComputerTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\ConfigurationRepository.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\ConfigurationRepository.Designer.cs">
+      <DependentUpon>ConfigurationRepository.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\Create_ExceptionTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\Create_ExceptionTypes.Designer.cs">
+      <DependentUpon>Create_ExceptionTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\DataOutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\DataOutForm.Designer.cs">
+      <DependentUpon>DataOutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\DynamicDetailsform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\DynamicDetailsform.Designer.cs">
+      <DependentUpon>DynamicDetailsform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\ExceptionConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\ExceptionConfiguration.Designer.cs">
+      <DependentUpon>ExceptionConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\InputERP_Message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\InputERP_Message.Designer.cs">
+      <DependentUpon>InputERP_Message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\MachineSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\MachineSelection.Designer.cs">
+      <DependentUpon>MachineSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\ParametersCall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\ParametersCall.Designer.cs">
+      <DependentUpon>ParametersCall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\PMCplanIput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\PMCplanIput.Designer.cs">
+      <DependentUpon>PMCplanIput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\PrivilegeManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\PrivilegeManagement.Designer.cs">
+      <DependentUpon>PrivilegeManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\ProductionLineConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\ProductionLineConfiguration.Designer.cs">
+      <DependentUpon>ProductionLineConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\Production_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\Production_Screen.Designer.cs">
+      <DependentUpon>Production_Screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\ScanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\ScanForm.Designer.cs">
+      <DependentUpon>ScanForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\ScanGunForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\ScanGunForm.Designer.cs">
+      <DependentUpon>ScanGunForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\StatisticsQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\StatisticsQuery.Designer.cs">
+      <DependentUpon>StatisticsQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\StorageAddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\StorageAddress.Designer.cs">
+      <DependentUpon>StorageAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\TimedRefreshCondition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\TimedRefreshCondition.Designer.cs">
+      <DependentUpon>TimedRefreshCondition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\TypesWorkform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\TypesWorkform.Designer.cs">
+      <DependentUpon>TypesWorkform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\UpdatePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\UpdatePassword.Designer.cs">
+      <DependentUpon>UpdatePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\WorkScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\WorkScheduleForm.Designer.cs">
+      <DependentUpon>WorkScheduleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pop-upWindows\CapacityDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\CapacityDetails.Designer.cs">
+      <DependentUpon>CapacityDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\ConditionsQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\ConditionsQuery.Designer.cs">
+      <DependentUpon>ConditionsQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\IncomingInspection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\IncomingInspection.Designer.cs">
+      <DependentUpon>IncomingInspection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\ParameterSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\ParameterSettings.Designer.cs">
+      <DependentUpon>ParameterSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\ProcurementOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\ProcurementOrder.Designer.cs">
+      <DependentUpon>ProcurementOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\productionEfficiency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\productionEfficiency.Designer.cs">
+      <DependentUpon>productionEfficiency.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\QrCodeScanning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoreDocumentsWindows\QrCodeScanning.Designer.cs">
+      <DependentUpon>QrCodeScanning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pop-upWindows\Queryform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop-upWindows\Queryform.Designer.cs">
+      <DependentUpon>Queryform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RowMergeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RowMergeView.designer.cs" />
+    <EmbeddedResource Include="Gce_main.resx">
+      <DependentUpon>Gce_main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\AbnormalIput.resx">
+      <DependentUpon>AbnormalIput.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\AbnormalIputQury.resx">
+      <DependentUpon>AbnormalIputQury.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\AttendanceMachine.resx">
+      <DependentUpon>AttendanceMachine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\BasicShift.resx">
+      <DependentUpon>BasicShift.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\CheckQuery.resx">
+      <DependentUpon>CheckQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\CheckWorkAttendance.resx">
+      <DependentUpon>CheckWorkAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\Choose.resx">
+      <DependentUpon>Choose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\DailyAttendance.resx">
+      <DependentUpon>DailyAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\EmployeeExperience.resx">
+      <DependentUpon>EmployeeExperience.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\Employee_file.resx">
+      <DependentUpon>Employee_file.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\FinancialInputERP.resx">
+      <DependentUpon>FinancialInputERP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\IncomingAudit.resx">
+      <DependentUpon>IncomingAudit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\IncomingWarehousing.resx">
+      <DependentUpon>IncomingWarehousing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\PickingOut.resx">
+      <DependentUpon>PickingOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\PMCplan.resx">
+      <DependentUpon>PMCplan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\ProductionSplitTimeRecord.resx">
+      <DependentUpon>ProductionSplitTimeRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\ReturnGoods.resx">
+      <DependentUpon>ReturnGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\SectorStructure_form.resx">
+      <DependentUpon>SectorStructure_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\BadMachineFrm.resx">
+      <DependentUpon>BadMachineFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\ClassificationDisplay.resx">
+      <DependentUpon>ClassificationDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\ClassType.resx">
+      <DependentUpon>ClassType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\ComputerTest.resx">
+      <DependentUpon>ComputerTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\ConfigurationRepository.resx">
+      <DependentUpon>ConfigurationRepository.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\Create_ExceptionTypes.resx">
+      <DependentUpon>Create_ExceptionTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\DataOutForm.resx">
+      <DependentUpon>DataOutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\DynamicDetailsform.resx">
+      <DependentUpon>DynamicDetailsform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\ExceptionConfiguration.resx">
+      <DependentUpon>ExceptionConfiguration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\InputERP_Message.resx">
+      <DependentUpon>InputERP_Message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\MachineSelection.resx">
+      <DependentUpon>MachineSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\ParametersCall.resx">
+      <DependentUpon>ParametersCall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\PMCplanIput.resx">
+      <DependentUpon>PMCplanIput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\PrivilegeManagement.resx">
+      <DependentUpon>PrivilegeManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\ProductionLineConfiguration.resx">
+      <DependentUpon>ProductionLineConfiguration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\Production_Screen.resx">
+      <DependentUpon>Production_Screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\ScanForm.resx">
+      <DependentUpon>ScanForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\ScanGunForm.resx">
+      <DependentUpon>ScanGunForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\StatisticsQuery.resx">
+      <DependentUpon>StatisticsQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\StorageAddress.resx">
+      <DependentUpon>StorageAddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\TimedRefreshCondition.resx">
+      <DependentUpon>TimedRefreshCondition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\TypesWorkform.resx">
+      <DependentUpon>TypesWorkform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\UpdatePassword.resx">
+      <DependentUpon>UpdatePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\WorkScheduleForm.resx">
+      <DependentUpon>WorkScheduleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\CapacityDetails.resx">
+      <DependentUpon>CapacityDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\ConditionsQuery.resx">
+      <DependentUpon>ConditionsQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\IncomingInspection.resx">
+      <DependentUpon>IncomingInspection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\ParameterSettings.resx">
+      <DependentUpon>ParameterSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\ProcurementOrder.resx">
+      <DependentUpon>ProcurementOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\productionEfficiency.resx">
+      <DependentUpon>productionEfficiency.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoreDocumentsWindows\QrCodeScanning.resx">
+      <DependentUpon>QrCodeScanning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop-upWindows\Queryform.resx">
+      <DependentUpon>Queryform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RowMergeView.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>RowMergeView1.Designer.cs</LastGenOutput>
+      <DependentUpon>RowMergeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Resources\app.config" />
+    <Fakes Include="Fakes\Guifreaks.NavigationBar.XmlSerializers.fakes" />
+    <Fakes Include="Fakes\Microsoft.ReportViewer.WinForms.fakes" />
+    <Fakes Include="Fakes\Guifreaks.NavigationBar.fakes" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bll\Gce-Bll.csproj">
+      <Project>{3dc6700e-35c2-4686-8d13-bf2113afceb1}</Project>
+      <Name>Gce-Bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Gce-Common.csproj">
+      <Project>{f98412c5-0ef1-46db-b0f6-0c7fc78ca142}</Project>
+      <Name>Gce-Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Gce-Model.csproj">
+      <Project>{554cd10c-60a2-4a35-9827-0e1044b3625c}</Project>
+      <Name>Gce-Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dice_48px_29268_easyicon.net.ico" />
+    <Content Include="Image\dice_48px_29268_easyicon.net.ico" />
+    <Content Include="Image\menu020307.png" />
+    <Content Include="Image\menu0402_.png" />
+    <Content Include="Image\menu070305_.png" />
+    <Content Include="Image\menu0708_.png" />
+    <Content Include="ooopic_1473058498.ico" />
+    <Content Include="ooopic_1473058859.ico" />
+    <Content Include="Resources\menu070305_.png" />
+    <None Include="Resources\menu0106.png" />
+    <None Include="Resources\menu010401.png" />
+    <None Include="Resources\menu230601_.png" />
+    <None Include="Resources\menu070808.png" />
+    <None Include="Resources\menu010305.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

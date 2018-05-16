@@ -1,0 +1,10 @@
+E:\工程项目\Gce\Dal\bin\Debug\Dal.dll
+E:\工程项目\Gce\Dal\bin\Debug\Dal.pdb
+E:\工程项目\Gce\Dal\bin\Debug\Common.dll
+E:\工程项目\Gce\Dal\bin\Debug\Model.dll
+E:\工程项目\Gce\Dal\bin\Debug\Common.pdb
+E:\工程项目\Gce\Dal\bin\Debug\Model.pdb
+E:\工程项目\Gce\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+E:\工程项目\Gce\Dal\obj\Debug\Dal.dll
+E:\工程项目\Gce\Dal\obj\Debug\Dal.pdb
+E:\工程项目\Gce\Dal\bin\Debug\Dal.dll.config
