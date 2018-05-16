@@ -34,3 +34,13 @@ D:\Gce\Common\obj\Debug\Gce_Common.pdb
 D:\Gce\Common\obj\Debug\Interop.zkemkeeper.dll
 D:\Gce\Common\obj\Debug\Gce-Common.csproj.ResolveComReference.cache
 D:\Gce\Common\bin\Debug\Interop.zkemkeeper.dll
+G:\Gce\Common\obj\Debug\Gce-Common.csprojResolveAssemblyReference.cache
+G:\Gce\Common\obj\Debug\Gce-Common.csproj.ResolveComReference.cache
+G:\Gce\Common\obj\Debug\Gce-Common.csproj.CoreCompileInputs.cache
+G:\Gce\Common\obj\Debug\Gce_Common.dll
+G:\Gce\Common\obj\Debug\Gce_Common.pdb
+G:\Gce\Common\bin\Debug\Gce_Common.dll
+G:\Gce\Common\bin\Debug\Gce_Common.pdb
+G:\Gce\Common\bin\Debug\Gce_Model.dll
+G:\Gce\Common\bin\Debug\Gce_Model.pdb
+G:\Gce\Common\obj\Debug\Gce-Common.csproj.CopyComplete

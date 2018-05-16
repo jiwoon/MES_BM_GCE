@@ -13,3 +13,9 @@ D:\Gce\Model\bin\Debug\Gce_Model.pdb
 D:\Gce\Model\obj\Debug\Gce-Model.csprojResolveAssemblyReference.cache
 D:\Gce\Model\obj\Debug\Gce_Model.dll
 D:\Gce\Model\obj\Debug\Gce_Model.pdb
+G:\Gce\Model\bin\Debug\Gce_Model.dll
+G:\Gce\Model\bin\Debug\Gce_Model.pdb
+G:\Gce\Model\obj\Debug\Gce-Model.csprojResolveAssemblyReference.cache
+G:\Gce\Model\obj\Debug\Gce-Model.csproj.CoreCompileInputs.cache
+G:\Gce\Model\obj\Debug\Gce_Model.dll
+G:\Gce\Model\obj\Debug\Gce_Model.pdb

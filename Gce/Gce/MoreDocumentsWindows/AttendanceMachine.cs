@@ -483,14 +483,14 @@ namespace Gce.MoreDocumentsWindows
 
             List<TimeAttendance_AttendanceSchedule> list = new List<TimeAttendance_AttendanceSchedule>();
 
-            foreach (TimeAttendance_AttendanceInformation_machine item in dataList)
-            {
-                if (axCZKEM1.Connect_Net(item.IPAddress, 4370))
-                {
-                    list.AddRange(AttendanceMachineHelp.GetUserData(axCZKEM1,item.MachineID,true,item.IPAddress,item.MachinePosition));
-                }
-                else MessageBox.Show("连接失败");
-            }
+            //foreach (TimeAttendance_AttendanceInformation_machine item in dataList)
+            //{
+            //    if (axCZKEM1.Connect_Net(item.IPAddress, 4370))
+            //    {
+            //        list.AddRange(AttendanceMachineHelp.GetUserData(axCZKEM1,item.MachineID,true,item.IPAddress,item.MachinePosition));
+            //    }
+            //    else MessageBox.Show("连接失败");
+            //}
 
             foreach (TimeAttendance_AttendanceSchedule item in list)
             {
